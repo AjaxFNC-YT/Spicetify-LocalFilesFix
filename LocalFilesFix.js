@@ -1,3 +1,5 @@
+// may not work lowk
+
 (function LocalFilesFix() {
     if (!Spicetify.Player || !Spicetify.Platform) {
         setTimeout(LocalFilesFix, 100);
